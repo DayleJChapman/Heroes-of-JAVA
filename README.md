@@ -1,5 +1,6 @@
 # Heroes-of-JAVA
 Culminating for CS grade 12
+Credits: Dayle Chapman & Mark Keller
 
 !!Note: slick2d library required!!
 (Add thr library: downloaded from here http://slick.ninjacave.com/)
